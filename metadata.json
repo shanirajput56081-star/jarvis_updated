@@ -1,0 +1,12 @@
+{
+  "name": "Jarvis AI Assistant",
+  "description": "A real-time, voice-to-voice AI assistant inspired by JARVIS, featuring a cyberpunk blue HUD and natural speech capabilities.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera",
+    "display-capture"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
